@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Steffi</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_header">Search</string>
+    <string name="steffi_greet">Welcome to STEFFI</string>
+    <string name="write_note">Write your note here</string>
+    <string name="no_tags">Add Tag</string>
+    <string name="no_title">Add Title</string>
+    <string name="yes_button">yes</string>
+    <string name="no_button">no</string>
+    <string name="cancel_button">cancel</string>
+    <string name="title_override">A note already exists with that title, would you like to override it?</string>
+    <string name="overwrite_header">Overwrite Note?</string>
+</resources>
